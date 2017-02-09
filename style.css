@@ -1,9 +1,18 @@
 body {
 	border: 20px solid pink;
 	padding: 20px;
+	font-family: source sans pro;
+	margin: 10%;
 }
 
 /*font source sans pro*/
+
+.date {
+	text-transform: uppercase;
+	font-size: 1em;
+	color: powderblue;
+	font-weight: bold;
+}
 
 blockquote {
 	border-left: 2px solid pink;
