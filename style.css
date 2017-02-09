@@ -1,0 +1,11 @@
+body {
+	border: 20px solid pink;
+	padding: 20px;
+}
+
+/*font source sans pro*/
+
+blockquote {
+	border-left: 2px solid pink;
+	padding: 5px;
+}
